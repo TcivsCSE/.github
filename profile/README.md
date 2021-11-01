@@ -18,11 +18,22 @@
 
 奉獻給未來的人
 
-## 內容
+## 教學
 
-文章都將會更新在 [台中高工資訊科部落格](https://tcivscse.github.io/) 上方
+教學文章 [台中高工資訊科部落格](https://tcivscse.github.io/)
 
-在這裡也會陸續更新越來越多資料
+## 儲存庫索引
+
+共通:
+- [TcivsCSE.github.io](https://github.com/TcivsCSE/TcivsCSE.github.io) 部落格網頁
+- [.github](https://github.com/TcivsCSE/.github) github組織資料
+- [CodeQuestions](https://github.com/TcivsCSE/CodeQuestions) 解題題目
+
+軟體:
+- [SoftwareTopics](https://github.com/TcivsCSE/SoftwareTopics) 歷屆軟體選手選拔題目
+
+資安:
+- [DoTheLookup](https://github.com/TcivsCSE/DoTheLookup) 透過 py 進行 HTML 查找
 
 ## 歷史
 
@@ -30,4 +41,4 @@
 
 2021-10-26 建立了 組織 profile README
 
-2021-11-01 選出了 21屆的軟體選手
+2021-11-01 選出了 21年的軟體選手
