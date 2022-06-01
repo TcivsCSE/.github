@@ -29,6 +29,7 @@
 - [.github](https://github.com/TcivsCSE/.github) github組織資料
 - [CodeQuestions](https://github.com/TcivsCSE/CodeQuestions) 解題題目
 - [Artical-Collection](https://github.com/TcivsCSE/Article-Collection) 值得一看的文章
+- [DoTheRecovery](https://github.com/TcivsCSE/DoTheRecovery) STM32自動重灌
 
 軟體:
 - [SoftwareTopics](https://github.com/TcivsCSE/SoftwareTopics) 歷屆軟體選手選拔題目
